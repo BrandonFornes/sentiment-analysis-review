@@ -16,7 +16,7 @@ Features an optimized Linear SVM model, an interactive **Streamlit** UI, and ful
    ```bash
    docker build -t sentiment-app .
 Run the container:
-   ```bash
+   Bash
    docker run -p 8501:8501 sentiment-app 
 Access the app at http://localhost:8501.
 
