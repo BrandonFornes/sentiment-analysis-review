@@ -7,7 +7,7 @@ Features an optimized Linear SVM model, an interactive **Streamlit** UI, and ful
 ---
 
 ## Live Demo
-👉 **[https://huggingface.co/spaces/BrandonFornes/sentiment-analysis-app]**
+**[https://huggingface.co/spaces/BrandonFornes/sentiment-analysis-app]**
 
 ## Quick Start
 
