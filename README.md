@@ -23,10 +23,13 @@ Access the app at http://localhost:8501.
 
 Option 2: Native Python Setup
 **Install dependencies**:
+```bash
    pip install -r requirements.txt
+```
 Run the app:
-
+```bash
 streamlit run app.py
+```
 Tech Stack
 Core: Python 3.11, Scikit-Learn, Pandas, NumPy
 
