@@ -15,14 +15,15 @@ Features an optimized Linear SVM model, an interactive **Streamlit** UI, and ful
 1. **Build the image:**
    ```bash
    docker build -t sentiment-app .
-Run the container:
+   
+2. **Run the container**:
+   ```bash
    docker run -p 8501:8501 sentiment-app 
 Access the app at http://localhost:8501.
 
 Option 2: Native Python Setup
-Install dependencies:
-
-pip install -r requirements.txt
+**Install dependencies**:
+   pip install -r requirements.txt
 Run the app:
 
 streamlit run app.py
